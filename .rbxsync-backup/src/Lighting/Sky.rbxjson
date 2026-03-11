@@ -1,7 +1,7 @@
 {
   "className": "Sky",
   "name": "Sky",
-  "parentId": "9500",
+  "parentId": "127354",
   "path": "Lighting/Sky",
   "properties": {
     "Capabilities": {
@@ -97,5 +97,5 @@
       "value": "rbxassetid://6196665106"
     }
   },
-  "referenceId": "9514"
+  "referenceId": "127358"
 }

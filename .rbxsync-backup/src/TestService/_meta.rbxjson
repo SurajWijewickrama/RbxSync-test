@@ -1,7 +1,7 @@
 {
   "className": "TestService",
   "name": "TestService",
-  "parentId": "125685",
+  "parentId": "126169",
   "path": "TestService",
   "properties": {
     "AutoRuns": {
@@ -45,5 +45,5 @@
       "value": 10
     }
   },
-  "referenceId": "9522"
+  "referenceId": "127366"
 }

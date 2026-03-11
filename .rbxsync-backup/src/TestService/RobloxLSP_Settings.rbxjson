@@ -1,7 +1,13 @@
 {
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "TestService/RobloxLSP_Settings"
+    }
+  },
   "className": "ModuleScript",
   "name": "RobloxLSP_Settings",
-  "parentId": "9522",
+  "parentId": "127366",
   "path": "TestService/RobloxLSP_Settings",
   "properties": {
     "Capabilities": {
@@ -14,5 +20,5 @@
       "value": ""
     }
   },
-  "referenceId": "9504"
+  "referenceId": "385542"
 }

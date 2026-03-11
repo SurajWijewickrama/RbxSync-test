@@ -1,7 +1,13 @@
 {
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "ReplicatedStorage/Shared"
+    }
+  },
   "className": "Folder",
   "name": "Shared",
-  "parentId": "9509",
+  "parentId": "127110",
   "path": "ReplicatedStorage/Shared",
   "properties": {
     "Capabilities": {
@@ -9,5 +15,5 @@
       "value": 0
     }
   },
-  "referenceId": "9497"
+  "referenceId": "385535"
 }

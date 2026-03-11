@@ -7,7 +7,7 @@
   },
   "className": "Script",
   "name": "Server",
-  "parentId": "127111",
+  "parentId": "127003",
   "path": "ServerScriptService/Server",
   "properties": {
     "Capabilities": {
@@ -31,5 +31,5 @@
       }
     }
   },
-  "referenceId": "385537"
+  "referenceId": "385638"
 }

@@ -1,7 +1,13 @@
 {
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "ServerScriptService/Server"
+    }
+  },
   "className": "Script",
   "name": "Server",
-  "parentId": "9511",
+  "parentId": "127111",
   "path": "ServerScriptService/Server",
   "properties": {
     "Capabilities": {
@@ -25,5 +31,5 @@
       }
     }
   },
-  "referenceId": "9510"
+  "referenceId": "385537"
 }

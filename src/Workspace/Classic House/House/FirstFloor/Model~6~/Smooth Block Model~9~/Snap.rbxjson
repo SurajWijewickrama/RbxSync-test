@@ -1,0 +1,67 @@
+{
+  "className": "Snap",
+  "name": "Snap",
+  "parentId": "441603",
+  "path": "Workspace/Classic House/House/FirstFloor/Model~6~/Smooth Block Model~9~/Snap",
+  "properties": {
+    "C0": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0,
+          -2.400000095367432,
+          0
+        ],
+        "rotation": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          -1,
+          0,
+          1,
+          0
+        ]
+      }
+    },
+    "C1": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          -3.4999961853027344,
+          0.6000070571899414,
+          0.4999985694885254
+        ],
+        "rotation": [
+          1,
+          0,
+          -5.025711173855781e-16,
+          5.025711173855781e-16,
+          0,
+          -1,
+          0,
+          1,
+          0
+        ]
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": true
+    },
+    "Part0": {
+      "type": "Ref",
+      "value": "441603"
+    },
+    "Part1": {
+      "type": "Ref",
+      "value": "441604"
+    }
+  },
+  "referenceId": "442325"
+}

@@ -1,7 +1,7 @@
 {
   "className": "Texture",
   "name": "Texture",
-  "parentId": "9505",
+  "parentId": "127356",
   "path": "Workspace/Baseplate/Texture",
   "properties": {
     "Capabilities": {
@@ -88,5 +88,5 @@
       "value": 1
     }
   },
-  "referenceId": "9523"
+  "referenceId": "127367"
 }

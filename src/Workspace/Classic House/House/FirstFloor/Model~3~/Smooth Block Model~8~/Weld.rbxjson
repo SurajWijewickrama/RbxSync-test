@@ -1,0 +1,67 @@
+{
+  "className": "Weld",
+  "name": "Weld",
+  "parentId": "441493",
+  "path": "Workspace/Classic House/House/FirstFloor/Model~3~/Smooth Block Model~8~/Weld",
+  "properties": {
+    "C0": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          1,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          1,
+          0,
+          1,
+          -0.0,
+          -1,
+          0,
+          0
+        ]
+      }
+    },
+    "C1": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          -2,
+          3.814697265625e-6,
+          1.9073486328125e-6
+        ],
+        "rotation": [
+          0,
+          0,
+          1,
+          5.025711173855781e-16,
+          1,
+          0,
+          -1,
+          -5.025711173855781e-16,
+          0
+        ]
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": true
+    },
+    "Part0": {
+      "type": "Ref",
+      "value": "441493"
+    },
+    "Part1": {
+      "type": "Ref",
+      "value": "441489"
+    }
+  },
+  "referenceId": "442931"
+}

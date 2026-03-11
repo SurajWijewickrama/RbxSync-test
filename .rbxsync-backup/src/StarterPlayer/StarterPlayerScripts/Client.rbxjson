@@ -1,7 +1,13 @@
 {
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "StarterPlayer/StarterPlayerScripts/Client"
+    }
+  },
   "className": "LocalScript",
   "name": "Client",
-  "parentId": "9517",
+  "parentId": "127361",
   "path": "StarterPlayer/StarterPlayerScripts/Client",
   "properties": {
     "Capabilities": {
@@ -25,5 +31,5 @@
       }
     }
   },
-  "referenceId": "9501"
+  "referenceId": "385550"
 }

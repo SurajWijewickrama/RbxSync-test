@@ -1,7 +1,7 @@
 {
   "className": "ServerStorage",
   "name": "ServerStorage",
-  "parentId": "126169",
+  "parentId": "126000",
   "path": "ServerStorage",
   "properties": {
     "Capabilities": {
@@ -9,5 +9,5 @@
       "value": 0
     }
   },
-  "referenceId": "127112"
+  "referenceId": "127004"
 }

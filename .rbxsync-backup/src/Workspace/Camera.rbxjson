@@ -1,7 +1,13 @@
 {
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "Workspace/Camera"
+    }
+  },
   "className": "Camera",
   "name": "Camera",
-  "parentId": "126170",
+  "parentId": "126001",
   "path": "Workspace/Camera",
   "properties": [],
   "referenceId": "127347"

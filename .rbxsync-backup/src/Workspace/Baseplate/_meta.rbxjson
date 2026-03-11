@@ -1,7 +1,13 @@
 {
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "Workspace/Baseplate"
+    }
+  },
   "className": "Part",
   "name": "Baseplate",
-  "parentId": "13",
+  "parentId": "126170",
   "path": "Workspace/Baseplate",
   "properties": {
     "Anchored": {
@@ -79,8 +85,8 @@
       "type": "Color3",
       "value": {
         "b": 0.3843137323856354,
-        "g": 0.3686274588108063,
-        "r": 0.3843137323856354
+        "g": 0.3725490272045136,
+        "r": 0.38823530077934265
       }
     },
     "CustomPhysicalProperties": {
@@ -182,5 +188,5 @@
       "value": 0
     }
   },
-  "referenceId": "9505"
+  "referenceId": "127356"
 }

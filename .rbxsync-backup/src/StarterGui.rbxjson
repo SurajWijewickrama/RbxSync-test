@@ -1,7 +1,7 @@
 {
   "className": "StarterGui",
   "name": "StarterGui",
-  "parentId": "125685",
+  "parentId": "126169",
   "path": "StarterGui",
   "properties": {
     "Capabilities": {
@@ -20,5 +20,5 @@
       "value": true
     }
   },
-  "referenceId": "7277"
+  "referenceId": "127032"
 }
