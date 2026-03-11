@@ -1,7 +1,7 @@
 {
   "className": "BloomEffect",
   "name": "Bloom",
-  "parentId": "9500",
+  "parentId": "127354",
   "path": "Lighting/Bloom",
   "properties": {
     "Capabilities": {
@@ -25,5 +25,5 @@
       "value": 2
     }
   },
-  "referenceId": "9488"
+  "referenceId": "127345"
 }

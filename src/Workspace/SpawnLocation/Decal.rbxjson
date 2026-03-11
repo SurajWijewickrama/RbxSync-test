@@ -1,7 +1,7 @@
 {
   "className": "Decal",
   "name": "Decal",
-  "parentId": "9515",
+  "parentId": "127359",
   "path": "Workspace/SpawnLocation/Decal",
   "properties": {
     "Capabilities": {
@@ -72,5 +72,5 @@
       "value": 1
     }
   },
-  "referenceId": "9495"
+  "referenceId": "127351"
 }

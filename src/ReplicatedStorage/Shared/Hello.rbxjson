@@ -1,7 +1,13 @@
 {
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "ReplicatedStorage/Shared/Hello"
+    }
+  },
   "className": "ModuleScript",
   "name": "Hello",
-  "parentId": "9497",
+  "parentId": "385535",
   "path": "ReplicatedStorage/Shared/Hello",
   "properties": {
     "Capabilities": {
@@ -14,5 +20,5 @@
       "value": ""
     }
   },
-  "referenceId": "9503"
+  "referenceId": "385548"
 }

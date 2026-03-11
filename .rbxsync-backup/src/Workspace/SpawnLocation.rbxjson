@@ -1,0 +1,14 @@
+{
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "Workspace/SpawnLocation"
+    }
+  },
+  "className": "SpawnLocation",
+  "name": "SpawnLocation",
+  "parentId": "126170",
+  "path": "Workspace/SpawnLocation",
+  "properties": [],
+  "referenceId": "127359"
+}

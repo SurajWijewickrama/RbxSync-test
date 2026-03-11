@@ -1,7 +1,13 @@
 {
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "Workspace/SpawnLocation"
+    }
+  },
   "className": "SpawnLocation",
   "name": "SpawnLocation",
-  "parentId": "13",
+  "parentId": "126170",
   "path": "Workspace/SpawnLocation",
   "properties": {
     "AllowTeamChangeOnTouch": {
@@ -32,7 +38,7 @@
     },
     "BrickColor": {
       "type": "BrickColor",
-      "value": 28
+      "value": 1004
     },
     "CFrame": {
       "type": "CFrame",
@@ -82,9 +88,9 @@
     "Color": {
       "type": "Color3",
       "value": {
-        "b": 0.2901960909366608,
-        "g": 0.6470588445663452,
-        "r": 0
+        "b": 0,
+        "g": 0,
+        "r": 1
       }
     },
     "CustomPhysicalProperties": {
@@ -202,5 +208,5 @@
       "value": 0
     }
   },
-  "referenceId": "9515"
+  "referenceId": "127359"
 }

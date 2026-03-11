@@ -7,11 +7,15 @@
     "RBX_OriginalTechnologyOnFileLoad": {
       "type": "int",
       "value": 3
+    },
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "Lighting"
     }
   },
   "className": "Lighting",
   "name": "Lighting",
-  "parentId": "125685",
+  "parentId": "126169",
   "path": "Lighting",
   "properties": {
     "Ambient": {
@@ -106,5 +110,5 @@
       "value": "14:30:00"
     }
   },
-  "referenceId": "9500"
+  "referenceId": "127354"
 }

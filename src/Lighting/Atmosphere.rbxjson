@@ -1,7 +1,7 @@
 {
   "className": "Atmosphere",
   "name": "Atmosphere",
-  "parentId": "9500",
+  "parentId": "127354",
   "path": "Lighting/Atmosphere",
   "properties": {
     "Capabilities": {
@@ -41,5 +41,5 @@
       "value": 0.25
     }
   },
-  "referenceId": "9480"
+  "referenceId": "127344"
 }

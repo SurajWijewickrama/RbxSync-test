@@ -1,7 +1,7 @@
 {
   "className": "SoundService",
   "name": "SoundService",
-  "parentId": "125685",
+  "parentId": "126169",
   "path": "SoundService",
   "properties": {
     "AcousticSimulationEnabled": {
@@ -50,5 +50,5 @@
       "value": 1
     }
   },
-  "referenceId": "7239"
+  "referenceId": "126992"
 }

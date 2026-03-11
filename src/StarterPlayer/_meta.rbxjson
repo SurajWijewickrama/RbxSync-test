@@ -1,7 +1,7 @@
 {
   "className": "StarterPlayer",
   "name": "StarterPlayer",
-  "parentId": "125685",
+  "parentId": "126169",
   "path": "StarterPlayer",
   "properties": {
     "AutoJumpEnabled": {
@@ -118,5 +118,5 @@
       "value": true
     }
   },
-  "referenceId": "7275"
+  "referenceId": "127030"
 }

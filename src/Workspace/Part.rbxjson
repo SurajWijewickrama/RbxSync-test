@@ -7,8 +7,8 @@
   },
   "className": "Part",
   "name": "Part",
-  "parentId": "13",
-  "path": "Workspace/Part~3~",
+  "parentId": "126170",
+  "path": "Workspace/Part",
   "properties": {
     "Anchored": {
       "type": "bool",
@@ -188,5 +188,5 @@
       "value": 0
     }
   },
-  "referenceId": "388237"
+  "referenceId": "385545"
 }
