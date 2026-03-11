@@ -1,4 +1,10 @@
 {
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "MaterialService"
+    }
+  },
   "className": "MaterialService",
   "materialOverrides": {
     "Asphalt": "Asphalt",

@@ -6,9 +6,9 @@
     }
   },
   "className": "Part",
-  "name": "Part",
+  "name": "bar",
   "parentId": "13",
-  "path": "Workspace/Part~3~",
+  "path": "Workspace/Part~4~",
   "properties": {
     "Anchored": {
       "type": "bool",
@@ -41,8 +41,8 @@
       "value": {
         "position": [
           -19.5,
-          20.5,
-          -23
+          24.5,
+          -19
         ],
         "rotation": [
           1,
@@ -188,5 +188,5 @@
       "value": 0
     }
   },
-  "referenceId": "388237"
+  "referenceId": "389901"
 }
