@@ -1,7 +1,13 @@
 {
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "Workspace/Classic House/House/Roof/Smooth Block Model~178~"
+    }
+  },
   "className": "Part",
   "name": "Smooth Block Model",
-  "parentId": "441354",
+  "parentId": "385941",
   "path": "Workspace/Classic House/House/Roof/Smooth Block Model~87~",
   "properties": {
     "Anchored": {
@@ -34,9 +40,9 @@
       "type": "CFrame",
       "value": {
         "position": [
-          161.57176208496097,
-          49.725040435791016,
-          -36.158504486083984
+          190.82174682617188,
+          43.8750114440918,
+          -26.408496856689457
         ],
         "rotation": [
           1,
@@ -182,5 +188,5 @@
       "value": 0
     }
   },
-  "referenceId": "441752"
+  "referenceId": "386277"
 }

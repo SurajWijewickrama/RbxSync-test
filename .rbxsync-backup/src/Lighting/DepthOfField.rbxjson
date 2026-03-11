@@ -1,7 +1,7 @@
 {
   "className": "DepthOfFieldEffect",
   "name": "DepthOfField",
-  "parentId": "127354",
+  "parentId": "127327",
   "path": "Lighting/DepthOfField",
   "properties": {
     "Capabilities": {
@@ -29,5 +29,5 @@
       "value": 0.75
     }
   },
-  "referenceId": "127352"
+  "referenceId": "127325"
 }

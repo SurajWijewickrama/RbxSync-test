@@ -7,7 +7,7 @@
   },
   "className": "ModuleScript",
   "name": "RobloxLSP_Settings",
-  "parentId": "127366",
+  "parentId": "127339",
   "path": "TestService/RobloxLSP_Settings",
   "properties": {
     "Capabilities": {
@@ -20,5 +20,5 @@
       "value": ""
     }
   },
-  "referenceId": "385643"
+  "referenceId": "385926"
 }

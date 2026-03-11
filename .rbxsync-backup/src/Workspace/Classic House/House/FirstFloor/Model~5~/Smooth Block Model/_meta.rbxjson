@@ -1,7 +1,13 @@
 {
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "Workspace/Classic House/House/FirstFloor/Model~5~/Smooth Block Model"
+    }
+  },
   "className": "Part",
   "name": "Smooth Block Model",
-  "parentId": "441351",
+  "parentId": "385947",
   "path": "Workspace/Classic House/House/FirstFloor/Model~5~/Smooth Block Model",
   "properties": {
     "Anchored": {
@@ -182,5 +188,5 @@
       "value": 0
     }
   },
-  "referenceId": "441540"
+  "referenceId": "386460"
 }

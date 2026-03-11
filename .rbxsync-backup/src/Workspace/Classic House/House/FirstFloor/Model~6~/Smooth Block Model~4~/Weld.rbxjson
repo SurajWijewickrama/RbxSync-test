@@ -1,14 +1,20 @@
 {
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "Workspace/Classic House/House/FirstFloor/Model~6~/Smooth Block Model~3~/Weld"
+    }
+  },
   "className": "Weld",
   "name": "Weld",
-  "parentId": "441598",
+  "parentId": "386473",
   "path": "Workspace/Classic House/House/FirstFloor/Model~6~/Smooth Block Model~4~/Weld",
   "properties": {
     "C0": {
       "type": "CFrame",
       "value": {
         "position": [
-          -3.250000238418579,
+          -0.8125000596046448,
           0,
           0
         ],
@@ -29,17 +35,17 @@
       "type": "CFrame",
       "value": {
         "position": [
-          1.625004768371582,
-          -3.099441755693988e-6,
-          7.74860438923497e-7
+          0.8125000596046448,
+          9.29832549445564e-6,
+          -7.74860438923497e-7
         ],
         "rotation": [
           0,
-          5.025711173855781e-16,
+          -5.025711173855781e-16,
           -1,
           0,
           1,
-          -5.025711173855781e-16,
+          5.025711173855781e-16,
           1,
           0,
           0
@@ -56,12 +62,12 @@
     },
     "Part0": {
       "type": "Ref",
-      "value": "441598"
+      "value": "386473"
     },
     "Part1": {
       "type": "Ref",
-      "value": "441602"
+      "value": "386472"
     }
   },
-  "referenceId": "442939"
+  "referenceId": "387485"
 }

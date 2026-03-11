@@ -1,7 +1,13 @@
 {
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "Workspace/Classic House/House/FirstFloor/Smooth Block Model~28~"
+    }
+  },
   "className": "Part",
   "name": "Smooth Block Model",
-  "parentId": "441346",
+  "parentId": "385940",
   "path": "Workspace/Classic House/House/FirstFloor/Smooth Block Model~161~",
   "properties": {
     "Anchored": {
@@ -34,20 +40,20 @@
       "type": "CFrame",
       "value": {
         "position": [
-          169.69676208496097,
-          15.599971771240236,
-          -10.158515930175781
+          117.69680786132812,
+          31.199914932250977,
+          -94.6585464477539
         ],
         "rotation": [
+          0,
+          0,
+          -1,
+          5.025711173855781e-16,
           1,
-          0,
-          0,
           0,
           1,
           5.025711173855781e-16,
-          0,
-          5.025711173855781e-16,
-          1
+          0
         ]
       }
     },
@@ -165,7 +171,7 @@
     "Size": {
       "type": "Vector3",
       "value": {
-        "x": 6.500000476837158,
+        "x": 9.750000953674316,
         "y": 3.900000333786011,
         "z": 3.250000238418579
       }
@@ -182,5 +188,5 @@
       "value": 0
     }
   },
-  "referenceId": "441566"
+  "referenceId": "386110"
 }

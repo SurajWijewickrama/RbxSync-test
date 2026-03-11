@@ -1,7 +1,13 @@
 {
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "Workspace/Classic House/House/Roof/Chimney/Smooth Block Model~11~"
+    }
+  },
   "className": "Part",
   "name": "Smooth Block Model",
-  "parentId": "441355",
+  "parentId": "386190",
   "path": "Workspace/Classic House/House/Roof/Chimney/Smooth Block Model~3~",
   "properties": {
     "Anchored": {
@@ -28,15 +34,15 @@
     },
     "BrickColor": {
       "type": "BrickColor",
-      "value": 153
+      "value": 5
     },
     "CFrame": {
       "type": "CFrame",
       "value": {
         "position": [
           137.1967926025391,
-          73.12501525878906,
-          -81.65850067138672
+          70.20004272460938,
+          -78.40850830078125
         ],
         "rotation": [
           0,
@@ -78,9 +84,9 @@
     "Color": {
       "type": "Color3",
       "value": {
-        "b": 0.46666666865348816,
-        "g": 0.4745098054409027,
-        "r": 0.5843137502670288
+        "b": 0.6039215922355652,
+        "g": 0.772549033164978,
+        "r": 0.843137264251709
       }
     },
     "CustomPhysicalProperties": {
@@ -166,7 +172,7 @@
       "type": "Vector3",
       "value": {
         "x": 9.750000953674316,
-        "y": 1.9500001668930056,
+        "y": 3.900000333786011,
         "z": 3.250000238418579
       }
     },
@@ -182,5 +188,5 @@
       "value": 0
     }
   },
-  "referenceId": "441893"
+  "referenceId": "386920"
 }

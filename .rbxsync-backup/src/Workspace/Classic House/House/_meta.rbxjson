@@ -1,7 +1,13 @@
 {
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "Workspace/Classic House/House"
+    }
+  },
   "className": "Model",
   "name": "House",
-  "parentId": "441344",
+  "parentId": "385929",
   "path": "Workspace/Classic House/House",
   "properties": {
     "Capabilities": {
@@ -26,5 +32,5 @@
       "type": "nil"
     }
   },
-  "referenceId": "441345"
+  "referenceId": "385939"
 }

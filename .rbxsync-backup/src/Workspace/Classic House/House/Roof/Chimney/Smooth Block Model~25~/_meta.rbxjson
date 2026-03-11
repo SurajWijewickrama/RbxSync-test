@@ -1,7 +1,13 @@
 {
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "Workspace/Classic House/House/Roof/Chimney/Smooth Block Model~32~"
+    }
+  },
   "className": "Part",
   "name": "Smooth Block Model",
-  "parentId": "441355",
+  "parentId": "386190",
   "path": "Workspace/Classic House/House/Roof/Chimney/Smooth Block Model~25~",
   "properties": {
     "Anchored": {
@@ -34,20 +40,20 @@
       "type": "CFrame",
       "value": {
         "position": [
-          133.9467926025391,
-          58.5000228881836,
-          -75.15851593017578
+          127.44677734375,
+          50.699989318847656,
+          -81.65850830078125
         ],
         "rotation": [
-          -1,
-          0,
           0,
           0,
           1,
           -5.025711173855781e-16,
+          1,
           0,
+          -1,
           5.025711173855781e-16,
-          -1
+          0
         ]
       }
     },
@@ -182,5 +188,5 @@
       "value": 0
     }
   },
-  "referenceId": "441915"
+  "referenceId": "386942"
 }

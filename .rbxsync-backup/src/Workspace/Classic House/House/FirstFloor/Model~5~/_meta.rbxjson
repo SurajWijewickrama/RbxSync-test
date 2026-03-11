@@ -1,7 +1,13 @@
 {
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "Workspace/Classic House/House/FirstFloor/Model~5~"
+    }
+  },
   "className": "Model",
   "name": "Model",
-  "parentId": "441346",
+  "parentId": "385940",
   "path": "Workspace/Classic House/House/FirstFloor/Model~5~",
   "properties": {
     "Capabilities": {
@@ -24,8 +30,8 @@
     },
     "PrimaryPart": {
       "type": "Ref",
-      "value": "441549"
+      "value": "386461"
     }
   },
-  "referenceId": "441351"
+  "referenceId": "385947"
 }
