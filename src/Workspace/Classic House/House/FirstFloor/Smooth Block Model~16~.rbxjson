@@ -1,7 +1,13 @@
 {
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "Workspace/Classic House/House/FirstFloor/Smooth Block Model~113~"
+    }
+  },
   "className": "Part",
   "name": "Smooth Block Model",
-  "parentId": "441346",
+  "parentId": "385940",
   "path": "Workspace/Classic House/House/FirstFloor/Smooth Block Model~16~",
   "properties": {
     "Anchored": {
@@ -28,24 +34,24 @@
     },
     "BrickColor": {
       "type": "BrickColor",
-      "value": 5
+      "value": 199
     },
     "CFrame": {
       "type": "CFrame",
       "value": {
         "position": [
-          117.69673919677736,
-          19.49998664855957,
-          -94.65852355957033
+          112.8217315673828,
+          3.899978637695313,
+          -36.15852355957031
         ],
         "rotation": [
           0,
           0,
-          1,
-          -5.025711173855781e-16,
+          -1,
+          5.025711173855781e-16,
           1,
           0,
-          -1,
+          1,
           5.025711173855781e-16,
           0
         ]
@@ -78,9 +84,9 @@
     "Color": {
       "type": "Color3",
       "value": {
-        "b": 0.6039215922355652,
-        "g": 0.772549033164978,
-        "r": 0.843137264251709
+        "b": 0.3843137323856354,
+        "g": 0.3725490272045136,
+        "r": 0.38823530077934265
       }
     },
     "CustomPhysicalProperties": {
@@ -167,7 +173,7 @@
       "value": {
         "x": 9.750000953674316,
         "y": 3.900000333786011,
-        "z": 3.250000238418579
+        "z": 6.500000476837158
       }
     },
     "TopSurface": {
@@ -182,5 +188,5 @@
       "value": 0
     }
   },
-  "referenceId": "441381"
+  "referenceId": "385965"
 }

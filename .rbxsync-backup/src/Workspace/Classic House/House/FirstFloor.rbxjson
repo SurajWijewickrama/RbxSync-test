@@ -1,31 +1,14 @@
 {
-  "className": "Model",
-  "name": "FirstFloor",
-  "parentId": "441345",
-  "path": "Workspace/Classic House/House/FirstFloor",
-  "properties": {
-    "Capabilities": {
-      "type": "SecurityCapabilities",
-      "value": 0
-    },
-    "LevelOfDetail": {
-      "type": "Enum",
-      "value": {
-        "enumType": "ModelLevelOfDetail",
-        "value": "Automatic"
-      }
-    },
-    "ModelStreamingMode": {
-      "type": "Enum",
-      "value": {
-        "enumType": "ModelStreamingMode",
-        "value": "Default"
-      }
-    },
-    "PrimaryPart": {
-      "type": "Ref",
-      "value": "441455"
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "Workspace/Classic House/House/FirstFloor"
     }
   },
-  "referenceId": "441346"
+  "className": "Model",
+  "name": "FirstFloor",
+  "parentId": "385939",
+  "path": "Workspace/Classic House/House/FirstFloor",
+  "properties": [],
+  "referenceId": "385940"
 }

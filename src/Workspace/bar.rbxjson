@@ -2,7 +2,7 @@
   "attributes": {
     "_rbxsync_source": {
       "type": "string",
-      "value": "Workspace/Part"
+      "value": "Workspace/bar"
     }
   },
   "className": "Part",
@@ -188,5 +188,5 @@
       "value": 0
     }
   },
-  "referenceId": "385648"
+  "referenceId": "385933"
 }

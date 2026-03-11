@@ -1,7 +1,13 @@
 {
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "Workspace/Classic House/House/FirstFloor/Smooth Block Model/Snap~2~"
+    }
+  },
   "className": "Snap",
   "name": "Snap",
-  "parentId": "441356",
+  "parentId": "385950",
   "path": "Workspace/Classic House/House/FirstFloor/Smooth Block Model/Snap~2~",
   "properties": {
     "C0": {
@@ -56,12 +62,12 @@
     },
     "Part0": {
       "type": "Ref",
-      "value": "441356"
+      "value": "385950"
     },
     "Part1": {
       "type": "Ref",
-      "value": "441384"
+      "value": "386060"
     }
   },
-  "referenceId": "441925"
+  "referenceId": "386491"
 }

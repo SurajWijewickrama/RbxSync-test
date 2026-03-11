@@ -29,7 +29,7 @@
     },
     "CurrentCamera": {
       "type": "Ref",
-      "value": "127347"
+      "value": "127320"
     },
     "DistributedGameTime": {
       "type": "double",

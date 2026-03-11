@@ -1,0 +1,101 @@
+{
+  "className": "Sky",
+  "name": "Realistic Sky",
+  "parentId": "127327",
+  "path": "Lighting/Realistic Sky",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "CelestialBodiesShown": {
+      "type": "bool",
+      "value": true
+    },
+    "MoonAngularSize": {
+      "type": "float",
+      "value": 11
+    },
+    "MoonTextureContent": {
+      "type": "Content"
+    },
+    "MoonTextureId": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": "rbxasset://sky/moon.jpg"
+    },
+    "SkyboxBackContent": {
+      "type": "Content"
+    },
+    "SkyboxBk": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": "http://www.roblox.com/asset/?id=150335574"
+    },
+    "SkyboxDn": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": "http://www.roblox.com/asset/?id=150335585"
+    },
+    "SkyboxDownContent": {
+      "type": "Content"
+    },
+    "SkyboxFrontContent": {
+      "type": "Content"
+    },
+    "SkyboxFt": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": "http://www.roblox.com/asset/?id=150335628"
+    },
+    "SkyboxLeftContent": {
+      "type": "Content"
+    },
+    "SkyboxLf": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": "http://www.roblox.com/asset/?id=150335620"
+    },
+    "SkyboxOrientation": {
+      "type": "Vector3",
+      "value": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "SkyboxRightContent": {
+      "type": "Content"
+    },
+    "SkyboxRt": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": "http://www.roblox.com/asset/?id=150335610"
+    },
+    "SkyboxUp": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": "http://www.roblox.com/asset/?id=150335642"
+    },
+    "SkyboxUpContent": {
+      "type": "Content"
+    },
+    "StarCount": {
+      "type": "int",
+      "value": 1334
+    },
+    "SunAngularSize": {
+      "type": "float",
+      "value": 21
+    },
+    "SunTextureContent": {
+      "type": "Content"
+    },
+    "SunTextureId": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": "rbxasset://sky/sun.jpg"
+    }
+  },
+  "referenceId": "388555"
+}

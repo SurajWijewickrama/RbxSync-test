@@ -1,67 +1,14 @@
 {
-  "className": "Weld",
-  "name": "Weld",
-  "parentId": "441362",
-  "path": "Workspace/Classic House/House/FirstFloor/Model/Smooth Block Model~3~/Weld",
-  "properties": {
-    "C0": {
-      "type": "CFrame",
-      "value": {
-        "position": [
-          -0.546875,
-          0,
-          0
-        ],
-        "rotation": [
-          0,
-          0,
-          -1,
-          0,
-          1,
-          0,
-          1,
-          0,
-          0
-        ]
-      }
-    },
-    "C1": {
-      "type": "CFrame",
-      "value": {
-        "position": [
-          0.5468770861625671,
-          0,
-          -8.344650268554688e-6
-        ],
-        "rotation": [
-          0,
-          5.025711173855781e-16,
-          -1,
-          0,
-          1,
-          -5.025711173855781e-16,
-          1,
-          0,
-          0
-        ]
-      }
-    },
-    "Capabilities": {
-      "type": "SecurityCapabilities",
-      "value": 0
-    },
-    "Enabled": {
-      "type": "bool",
-      "value": true
-    },
-    "Part0": {
-      "type": "Ref",
-      "value": "441362"
-    },
-    "Part1": {
-      "type": "Ref",
-      "value": "441361"
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "Workspace/Classic House/House/FirstFloor/Model/Smooth Block Model~3~/Weld"
     }
   },
-  "referenceId": "442920"
+  "className": "Weld",
+  "name": "Weld",
+  "parentId": "386423",
+  "path": "Workspace/Classic House/House/FirstFloor/Model/Smooth Block Model/Weld",
+  "properties": [],
+  "referenceId": "387411"
 }

@@ -1,7 +1,13 @@
 {
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "Workspace/Classic House/House/FirstFloor/Smooth Block Model~68~/Snap"
+    }
+  },
   "className": "Snap",
   "name": "Snap",
-  "parentId": "441630",
+  "parentId": "386154",
   "path": "Workspace/Classic House/House/FirstFloor/Smooth Block Model~205~/Snap",
   "properties": {
     "C0": {
@@ -9,19 +15,19 @@
       "value": {
         "position": [
           0,
-          1.9500001668930056,
+          -1.9500001668930056,
           0
         ],
         "rotation": [
+          1,
+          0,
+          0,
+          0,
+          0,
           -1,
           0,
-          0,
-          0,
-          0,
           1,
-          0,
-          1,
-          -0.0
+          0
         ]
       }
     },
@@ -29,19 +35,19 @@
       "type": "CFrame",
       "value": {
         "position": [
-          6.500013828277588,
-          -1.9500075578689575,
-          -0.000010073185876535717
+          6.500016212463379,
+          1.949982762336731,
+          0.00003719330197782256
         ],
         "rotation": [
           1,
           0,
           -5.025711173855781e-16,
-          -5.025711173855781e-16,
-          0,
-          1,
+          5.025711173855781e-16,
           0,
           -1,
+          0,
+          1,
           0
         ]
       }
@@ -56,12 +62,12 @@
     },
     "Part0": {
       "type": "Ref",
-      "value": "441630"
+      "value": "386154"
     },
     "Part1": {
       "type": "Ref",
-      "value": "441627"
+      "value": "386143"
     }
   },
-  "referenceId": "442353"
+  "referenceId": "386823"
 }

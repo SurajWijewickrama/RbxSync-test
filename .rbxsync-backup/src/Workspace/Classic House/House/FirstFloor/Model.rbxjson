@@ -1,31 +1,14 @@
 {
-  "className": "Model",
-  "name": "Model",
-  "parentId": "441346",
-  "path": "Workspace/Classic House/House/FirstFloor/Model",
-  "properties": {
-    "Capabilities": {
-      "type": "SecurityCapabilities",
-      "value": 0
-    },
-    "LevelOfDetail": {
-      "type": "Enum",
-      "value": {
-        "enumType": "ModelLevelOfDetail",
-        "value": "Automatic"
-      }
-    },
-    "ModelStreamingMode": {
-      "type": "Enum",
-      "value": {
-        "enumType": "ModelStreamingMode",
-        "value": "Default"
-      }
-    },
-    "PrimaryPart": {
-      "type": "Ref",
-      "value": "441369"
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "Workspace/Classic House/House/FirstFloor/Model"
     }
   },
-  "referenceId": "441347"
+  "className": "Model",
+  "name": "Model",
+  "parentId": "385940",
+  "path": "Workspace/Classic House/House/FirstFloor/Model",
+  "properties": [],
+  "referenceId": "385943"
 }

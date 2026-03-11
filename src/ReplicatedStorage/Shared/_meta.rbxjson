@@ -7,7 +7,7 @@
   },
   "className": "Folder",
   "name": "Shared",
-  "parentId": "127002",
+  "parentId": "126992",
   "path": "ReplicatedStorage/Shared",
   "properties": {
     "Capabilities": {
@@ -15,5 +15,5 @@
       "value": 0
     }
   },
-  "referenceId": "385636"
+  "referenceId": "385919"
 }

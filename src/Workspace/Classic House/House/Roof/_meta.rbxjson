@@ -1,7 +1,13 @@
 {
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "Workspace/Classic House/House/Roof"
+    }
+  },
   "className": "Model",
   "name": "Roof",
-  "parentId": "441345",
+  "parentId": "385939",
   "path": "Workspace/Classic House/House/Roof",
   "properties": {
     "Capabilities": {
@@ -24,8 +30,8 @@
     },
     "PrimaryPart": {
       "type": "Ref",
-      "value": "441729"
+      "value": "386376"
     }
   },
-  "referenceId": "441354"
+  "referenceId": "385941"
 }

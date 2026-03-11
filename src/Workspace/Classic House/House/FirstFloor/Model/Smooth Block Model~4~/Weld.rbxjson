@@ -1,0 +1,73 @@
+{
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "Workspace/Classic House/House/FirstFloor/Model/Smooth Block Model~3~/Weld"
+    }
+  },
+  "className": "Weld",
+  "name": "Weld",
+  "parentId": "386423",
+  "path": "Workspace/Classic House/House/FirstFloor/Model/Smooth Block Model~4~/Weld",
+  "properties": {
+    "C0": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          -0.8125000596046448,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          -1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0
+        ]
+      }
+    },
+    "C1": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0.8125031590461731,
+          0,
+          -0.000012397767022775952
+        ],
+        "rotation": [
+          0,
+          5.025711173855781e-16,
+          -1,
+          0,
+          1,
+          -5.025711173855781e-16,
+          1,
+          0,
+          0
+        ]
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": true
+    },
+    "Part0": {
+      "type": "Ref",
+      "value": "386423"
+    },
+    "Part1": {
+      "type": "Ref",
+      "value": "386422"
+    }
+  },
+  "referenceId": "387411"
+}

@@ -1,31 +1,14 @@
 {
-  "className": "Model",
-  "name": "Roof",
-  "parentId": "441345",
-  "path": "Workspace/Classic House/House/Roof",
-  "properties": {
-    "Capabilities": {
-      "type": "SecurityCapabilities",
-      "value": 0
-    },
-    "LevelOfDetail": {
-      "type": "Enum",
-      "value": {
-        "enumType": "ModelLevelOfDetail",
-        "value": "Automatic"
-      }
-    },
-    "ModelStreamingMode": {
-      "type": "Enum",
-      "value": {
-        "enumType": "ModelStreamingMode",
-        "value": "Default"
-      }
-    },
-    "PrimaryPart": {
-      "type": "Ref",
-      "value": "441729"
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "Workspace/Classic House/House/Roof"
     }
   },
-  "referenceId": "441354"
+  "className": "Model",
+  "name": "Roof",
+  "parentId": "385939",
+  "path": "Workspace/Classic House/House/Roof",
+  "properties": [],
+  "referenceId": "385941"
 }

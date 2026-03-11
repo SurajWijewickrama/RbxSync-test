@@ -1,7 +1,13 @@
 {
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "Workspace/Classic House/House/Roof/Chimney"
+    }
+  },
   "className": "Model",
   "name": "Chimney",
-  "parentId": "441354",
+  "parentId": "385941",
   "path": "Workspace/Classic House/House/Roof/Chimney",
   "properties": {
     "Capabilities": {
@@ -24,8 +30,8 @@
     },
     "PrimaryPart": {
       "type": "Ref",
-      "value": "441916"
+      "value": "386935"
     }
   },
-  "referenceId": "441355"
+  "referenceId": "386190"
 }
