@@ -1,17 +1,17 @@
 {
   "className": "Chat",
   "name": "Chat",
-  "parentId": "125470",
+  "parentId": "125685",
   "path": "Chat",
   "properties": {
     "BubbleChatEnabled": {
       "type": "bool",
-      "value": false
+      "value": true
     },
     "Capabilities": {
       "type": "SecurityCapabilities",
       "value": 0
     }
   },
-  "referenceId": "126308"
+  "referenceId": "7259"
 }

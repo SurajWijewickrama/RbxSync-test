@@ -1,7 +1,7 @@
 {
   "className": "Workspace",
   "name": "Workspace",
-  "parentId": "125470",
+  "parentId": "125685",
   "path": "Workspace",
   "properties": {
     "AirDensity": {
@@ -29,7 +29,7 @@
     },
     "CurrentCamera": {
       "type": "Ref",
-      "value": "126636"
+      "value": "353799"
     },
     "DistributedGameTime": {
       "type": "double",
@@ -88,8 +88,8 @@
     },
     "StreamingEnabled": {
       "type": "bool",
-      "value": false
+      "value": true
     }
   },
-  "referenceId": "125471"
+  "referenceId": "13"
 }

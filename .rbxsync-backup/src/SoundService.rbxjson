@@ -1,7 +1,7 @@
 {
   "className": "SoundService",
   "name": "SoundService",
-  "parentId": "125470",
+  "parentId": "125685",
   "path": "SoundService",
   "properties": {
     "AcousticSimulationEnabled": {
@@ -30,7 +30,7 @@
       "type": "Enum",
       "value": {
         "enumType": "ListenerLocation",
-        "value": "Default"
+        "value": "Camera"
       }
     },
     "DistanceFactor": {
@@ -43,12 +43,12 @@
     },
     "RespectFilteringEnabled": {
       "type": "bool",
-      "value": false
+      "value": true
     },
     "RolloffScale": {
       "type": "float",
       "value": 1
     }
   },
-  "referenceId": "126288"
+  "referenceId": "7239"
 }

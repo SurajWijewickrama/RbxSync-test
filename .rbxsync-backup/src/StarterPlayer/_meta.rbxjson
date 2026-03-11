@@ -1,7 +1,7 @@
 {
   "className": "StarterPlayer",
   "name": "StarterPlayer",
-  "parentId": "125470",
+  "parentId": "125685",
   "path": "StarterPlayer",
   "properties": {
     "AutoJumpEnabled": {
@@ -10,7 +10,7 @@
     },
     "CameraMaxZoomDistance": {
       "type": "float",
-      "value": 400
+      "value": 128
     },
     "CameraMinZoomDistance": {
       "type": "float",
@@ -45,7 +45,7 @@
     },
     "CharacterUseJumpPower": {
       "type": "bool",
-      "value": true
+      "value": false
     },
     "CharacterWalkSpeed": {
       "type": "float",
@@ -118,5 +118,5 @@
       "value": true
     }
   },
-  "referenceId": "126326"
+  "referenceId": "7275"
 }

@@ -1,13 +1,13 @@
 {
-  "className": "ReplicatedFirst",
-  "name": "ReplicatedFirst",
+  "className": "Teams",
+  "name": "Teams",
   "parentId": "125685",
-  "path": "ReplicatedFirst",
+  "path": "Teams",
   "properties": {
     "Capabilities": {
       "type": "SecurityCapabilities",
       "value": 0
     }
   },
-  "referenceId": "7264"
+  "referenceId": "9520"
 }

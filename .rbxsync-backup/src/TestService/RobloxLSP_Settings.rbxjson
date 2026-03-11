@@ -1,0 +1,18 @@
+{
+  "className": "ModuleScript",
+  "name": "RobloxLSP_Settings",
+  "parentId": "9522",
+  "path": "TestService/RobloxLSP_Settings",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "LinkedSource": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": ""
+    }
+  },
+  "referenceId": "9504"
+}

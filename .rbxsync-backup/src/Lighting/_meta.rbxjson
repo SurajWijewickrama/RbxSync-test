@@ -3,24 +3,28 @@
     "RBX_LightingTechnologyUnifiedMigration": {
       "type": "bool",
       "value": true
+    },
+    "RBX_OriginalTechnologyOnFileLoad": {
+      "type": "int",
+      "value": 3
     }
   },
   "className": "Lighting",
   "name": "Lighting",
-  "parentId": "125470",
+  "parentId": "125685",
   "path": "Lighting",
   "properties": {
     "Ambient": {
       "type": "Color3",
       "value": {
-        "b": 0.5,
-        "g": 0.5,
-        "r": 0.5
+        "b": 0,
+        "g": 0,
+        "r": 0
       }
     },
     "Brightness": {
       "type": "float",
-      "value": 1
+      "value": 2
     },
     "Capabilities": {
       "type": "SecurityCapabilities",
@@ -44,11 +48,11 @@
     },
     "EnvironmentDiffuseScale": {
       "type": "float",
-      "value": 0
+      "value": 1
     },
     "EnvironmentSpecularScale": {
       "type": "float",
-      "value": 0
+      "value": 1
     },
     "ExposureCompensation": {
       "type": "float",
@@ -57,9 +61,9 @@
     "FogColor": {
       "type": "Color3",
       "value": {
-        "b": 0.75,
-        "g": 0.75,
-        "r": 0.75
+        "b": 0.7529412508010864,
+        "g": 0.7529412508010864,
+        "r": 0.7529412508010864
       }
     },
     "FogEnd": {
@@ -72,11 +76,11 @@
     },
     "GeographicLatitude": {
       "type": "float",
-      "value": 41.733299255371094
+      "value": 0
     },
     "GlobalShadows": {
       "type": "bool",
-      "value": false
+      "value": true
     },
     "LightingStyle": {
       "type": "Enum",
@@ -88,19 +92,19 @@
     "OutdoorAmbient": {
       "type": "Color3",
       "value": {
-        "b": 0.5,
-        "g": 0.5,
-        "r": 0.5
+        "b": 0.27450981736183167,
+        "g": 0.27450981736183167,
+        "r": 0.27450981736183167
       }
     },
     "ShadowSoftness": {
       "type": "float",
-      "value": 0.5
+      "value": 0.20000000298023224
     },
     "TimeOfDay": {
       "type": "string",
-      "value": "14:00:00"
+      "value": "14:30:00"
     }
   },
-  "referenceId": "383048"
+  "referenceId": "9500"
 }

@@ -1,14 +1,8 @@
 {
-  "attributes": {
-    "_rbxsync_source": {
-      "type": "string",
-      "value": "Workspace/Part"
-    }
-  },
   "className": "Part",
   "name": "Part",
   "parentId": "13",
-  "path": "Workspace/Part",
+  "path": "Workspace/Part~2~",
   "properties": {
     "Anchored": {
       "type": "bool",
@@ -40,9 +34,9 @@
       "type": "CFrame",
       "value": {
         "position": [
-          -19.5,
-          7.5,
-          18
+          -30,
+          0.5000010132789612,
+          6
         ],
         "rotation": [
           1,
@@ -171,7 +165,7 @@
     "Size": {
       "type": "Vector3",
       "value": {
-        "x": 7,
+        "x": 4,
         "y": 1,
         "z": 2
       }
@@ -188,5 +182,5 @@
       "value": 0
     }
   },
-  "referenceId": "9506"
+  "referenceId": "9507"
 }

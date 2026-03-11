@@ -1,7 +1,7 @@
 {
   "className": "StarterPlayerScripts",
   "name": "StarterPlayerScripts",
-  "parentId": "126326",
+  "parentId": "7275",
   "path": "StarterPlayer/StarterPlayerScripts",
   "properties": {
     "Capabilities": {
@@ -9,5 +9,5 @@
       "value": 0
     }
   },
-  "referenceId": "126675"
+  "referenceId": "9517"
 }

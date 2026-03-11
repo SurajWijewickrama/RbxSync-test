@@ -1,8 +1,8 @@
 {
-  "className": "Script",
-  "name": "Script",
-  "parentId": "126377",
-  "path": "ReplicatedStorage/Script",
+  "className": "LocalScript",
+  "name": "Client",
+  "parentId": "9517",
+  "path": "StarterPlayer/StarterPlayerScripts/Client",
   "properties": {
     "Capabilities": {
       "type": "SecurityCapabilities",
@@ -25,5 +25,5 @@
       }
     }
   },
-  "referenceId": "126646"
+  "referenceId": "9501"
 }

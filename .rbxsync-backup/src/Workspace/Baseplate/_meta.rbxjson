@@ -1,18 +1,12 @@
 {
-  "attributes": {
-    "_rbxsync_source": {
-      "type": "string",
-      "value": "Workspace/Part"
-    }
-  },
   "className": "Part",
-  "name": "Part",
+  "name": "Baseplate",
   "parentId": "13",
-  "path": "Workspace/Part",
+  "path": "Workspace/Baseplate",
   "properties": {
     "Anchored": {
       "type": "bool",
-      "value": false
+      "value": true
     },
     "AudioCanCollide": {
       "type": "bool",
@@ -34,15 +28,15 @@
     },
     "BrickColor": {
       "type": "BrickColor",
-      "value": 194
+      "value": 199
     },
     "CFrame": {
       "type": "CFrame",
       "value": {
         "position": [
-          -19.5,
-          7.5,
-          18
+          0,
+          -10,
+          0
         ],
         "rotation": [
           1,
@@ -84,9 +78,9 @@
     "Color": {
       "type": "Color3",
       "value": {
-        "b": 0.6470588445663452,
-        "g": 0.6352941393852234,
-        "r": 0.6392157077789307
+        "b": 0.3843137323856354,
+        "g": 0.3686274588108063,
+        "r": 0.3843137323856354
       }
     },
     "CustomPhysicalProperties": {
@@ -112,7 +106,7 @@
     },
     "Locked": {
       "type": "bool",
-      "value": false
+      "value": true
     },
     "Massless": {
       "type": "bool",
@@ -171,9 +165,9 @@
     "Size": {
       "type": "Vector3",
       "value": {
-        "x": 7,
-        "y": 1,
-        "z": 2
+        "x": 512,
+        "y": 20,
+        "z": 512
       }
     },
     "TopSurface": {
@@ -188,5 +182,5 @@
       "value": 0
     }
   },
-  "referenceId": "9506"
+  "referenceId": "9505"
 }

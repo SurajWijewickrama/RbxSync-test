@@ -1,7 +1,7 @@
 {
   "className": "StarterGui",
   "name": "StarterGui",
-  "parentId": "125470",
+  "parentId": "125685",
   "path": "StarterGui",
   "properties": {
     "Capabilities": {
@@ -12,7 +12,7 @@
       "type": "Enum",
       "value": {
         "enumType": "ScreenOrientation",
-        "value": "LandscapeSensor"
+        "value": "Sensor"
       }
     },
     "ShowDevelopmentGui": {
@@ -20,5 +20,5 @@
       "value": true
     }
   },
-  "referenceId": "126328"
+  "referenceId": "7277"
 }
