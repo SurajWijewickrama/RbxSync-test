@@ -5,3 +5,9 @@
 *.rbxlx
 .DS_Store
 Thumbs.db
+# RbxSync Temporary Files
+.rbxsync-backup/
+chunk_*.json
+
+# Roblox Studio Lock Files
+*.lock
