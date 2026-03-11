@@ -7,7 +7,7 @@
   },
   "className": "Part",
   "name": "bar",
-  "parentId": "126170",
+  "parentId": "126001",
   "path": "Workspace/bar",
   "properties": {
     "Anchored": {
@@ -188,5 +188,5 @@
       "value": 0
     }
   },
-  "referenceId": "385547"
+  "referenceId": "385648"
 }

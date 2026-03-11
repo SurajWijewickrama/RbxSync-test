@@ -1,0 +1,67 @@
+{
+  "className": "Snap",
+  "name": "Snap",
+  "parentId": "441891",
+  "path": "Workspace/Classic House/House/Roof/Chimney/Smooth Block Model/Snap",
+  "properties": {
+    "C0": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          0,
+          -0.65625,
+          0
+        ],
+        "rotation": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          -1,
+          0,
+          1,
+          0
+        ]
+      }
+    },
+    "C1": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          -2.1875,
+          1.3125050067901611,
+          -4.172325134277344e-6
+        ],
+        "rotation": [
+          -1,
+          0,
+          0,
+          0,
+          -5.025711173855781e-16,
+          -1,
+          0,
+          -1,
+          -5.025711173855781e-16
+        ]
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Enabled": {
+      "type": "bool",
+      "value": true
+    },
+    "Part0": {
+      "type": "Ref",
+      "value": "441891"
+    },
+    "Part1": {
+      "type": "Ref",
+      "value": "441892"
+    }
+  },
+  "referenceId": "442863"
+}

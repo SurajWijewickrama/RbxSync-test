@@ -7,7 +7,7 @@
   },
   "className": "ModuleScript",
   "name": "Hello",
-  "parentId": "385535",
+  "parentId": "385636",
   "path": "ReplicatedStorage/Shared/Hello",
   "properties": {
     "Capabilities": {
@@ -20,5 +20,5 @@
       "value": ""
     }
   },
-  "referenceId": "385548"
+  "referenceId": "385649"
 }

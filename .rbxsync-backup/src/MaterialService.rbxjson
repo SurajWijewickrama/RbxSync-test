@@ -49,7 +49,7 @@
     "WoodPlanks": "WoodPlanks"
   },
   "name": "MaterialService",
-  "parentId": "126169",
+  "parentId": "126000",
   "path": "MaterialService",
   "properties": {
     "Capabilities": {
@@ -57,5 +57,5 @@
       "value": 0
     }
   },
-  "referenceId": "127020"
+  "referenceId": "126894"
 }

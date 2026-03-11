@@ -1,7 +1,7 @@
 {
   "className": "ReplicatedStorage",
   "name": "ReplicatedStorage",
-  "parentId": "126169",
+  "parentId": "126000",
   "path": "ReplicatedStorage",
   "properties": {
     "Capabilities": {
@@ -9,5 +9,5 @@
       "value": 0
     }
   },
-  "referenceId": "127110"
+  "referenceId": "127002"
 }

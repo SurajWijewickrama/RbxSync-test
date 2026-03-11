@@ -15,7 +15,7 @@
   },
   "className": "Lighting",
   "name": "Lighting",
-  "parentId": "126169",
+  "parentId": "126000",
   "path": "Lighting",
   "properties": {
     "Ambient": {

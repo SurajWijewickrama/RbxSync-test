@@ -1,0 +1,13 @@
+{
+  "className": "PackageLink",
+  "name": "PackageLink",
+  "parentId": "441344",
+  "path": "Workspace/Classic House/PackageLink",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "613712"
+}
