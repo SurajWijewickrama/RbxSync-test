@@ -1,0 +1,106 @@
+{
+  "attributes": {
+    "RBX_LightingTechnologyUnifiedMigration": {
+      "type": "bool",
+      "value": true
+    }
+  },
+  "className": "Lighting",
+  "name": "Lighting",
+  "parentId": "125470",
+  "path": "Lighting",
+  "properties": {
+    "Ambient": {
+      "type": "Color3",
+      "value": {
+        "b": 0.5,
+        "g": 0.5,
+        "r": 0.5
+      }
+    },
+    "Brightness": {
+      "type": "float",
+      "value": 1
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "ColorShift_Bottom": {
+      "type": "Color3",
+      "value": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      }
+    },
+    "ColorShift_Top": {
+      "type": "Color3",
+      "value": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      }
+    },
+    "EnvironmentDiffuseScale": {
+      "type": "float",
+      "value": 0
+    },
+    "EnvironmentSpecularScale": {
+      "type": "float",
+      "value": 0
+    },
+    "ExposureCompensation": {
+      "type": "float",
+      "value": 0
+    },
+    "FogColor": {
+      "type": "Color3",
+      "value": {
+        "b": 0.75,
+        "g": 0.75,
+        "r": 0.75
+      }
+    },
+    "FogEnd": {
+      "type": "float",
+      "value": 100000
+    },
+    "FogStart": {
+      "type": "float",
+      "value": 0
+    },
+    "GeographicLatitude": {
+      "type": "float",
+      "value": 41.733299255371094
+    },
+    "GlobalShadows": {
+      "type": "bool",
+      "value": false
+    },
+    "LightingStyle": {
+      "type": "Enum",
+      "value": {
+        "enumType": "LightingStyle",
+        "value": "Soft"
+      }
+    },
+    "OutdoorAmbient": {
+      "type": "Color3",
+      "value": {
+        "b": 0.5,
+        "g": 0.5,
+        "r": 0.5
+      }
+    },
+    "ShadowSoftness": {
+      "type": "float",
+      "value": 0.5
+    },
+    "TimeOfDay": {
+      "type": "string",
+      "value": "14:00:00"
+    }
+  },
+  "referenceId": "383048"
+}

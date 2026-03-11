@@ -1,0 +1,13 @@
+{
+  "className": "StarterCharacterScripts",
+  "name": "StarterCharacterScripts",
+  "parentId": "7275",
+  "path": "StarterPlayer/StarterCharacterScripts",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "9516"
+}

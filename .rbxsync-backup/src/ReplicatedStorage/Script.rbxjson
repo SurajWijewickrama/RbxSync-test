@@ -1,0 +1,29 @@
+{
+  "className": "Script",
+  "name": "Script",
+  "parentId": "126377",
+  "path": "ReplicatedStorage/Script",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "Disabled": {
+      "type": "bool",
+      "value": false
+    },
+    "LinkedSource": {
+      "originalType": "ContentId",
+      "type": "string",
+      "value": ""
+    },
+    "RunContext": {
+      "type": "Enum",
+      "value": {
+        "enumType": "RunContext",
+        "value": "Legacy"
+      }
+    }
+  },
+  "referenceId": "126646"
+}

@@ -1,0 +1,13 @@
+{
+  "className": "ReplicatedStorage",
+  "name": "ReplicatedStorage",
+  "parentId": "125470",
+  "path": "ReplicatedStorage",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    }
+  },
+  "referenceId": "126377"
+}

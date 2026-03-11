@@ -1,0 +1,88 @@
+{
+  "className": "Camera",
+  "name": "Camera",
+  "parentId": "125471",
+  "path": "Workspace/Camera",
+  "properties": {
+    "CFrame": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          3.509929895401001,
+          4.875209331512451,
+          6.4212493896484375
+        ],
+        "rotation": [
+          0.9999024868011476,
+          -0.005063801538199186,
+          0.01301478873938322,
+          4.656612873077393e-10,
+          0.9319442510604858,
+          0.3626013994216919,
+          -0.013965200632810593,
+          -0.3625660538673401,
+          0.931853413581848
+        ]
+      }
+    },
+    "CameraSubject": {
+      "type": "nil"
+    },
+    "CameraType": {
+      "type": "Enum",
+      "value": {
+        "enumType": "CameraType",
+        "value": "Fixed"
+      }
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "FieldOfView": {
+      "type": "float",
+      "value": 70
+    },
+    "FieldOfViewMode": {
+      "type": "Enum",
+      "value": {
+        "enumType": "FieldOfViewMode",
+        "value": "Vertical"
+      }
+    },
+    "Focus": {
+      "type": "CFrame",
+      "value": {
+        "position": [
+          3.483900308609009,
+          4.150006294250488,
+          4.557541847229004
+        ],
+        "rotation": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    },
+    "HeadLocked": {
+      "type": "bool",
+      "value": true
+    },
+    "HeadScale": {
+      "type": "float",
+      "value": 1
+    },
+    "VRTiltAndRollEnabled": {
+      "type": "bool",
+      "value": false
+    }
+  },
+  "referenceId": "126636"
+}
