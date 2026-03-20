@@ -1,0 +1,115 @@
+{
+  "className": "Humanoid",
+  "name": "Humanoid",
+  "parentId": "390585",
+  "path": "Workspace/Noob/Humanoid",
+  "properties": {
+    "AutoJumpEnabled": {
+      "type": "bool",
+      "value": true
+    },
+    "AutoRotate": {
+      "type": "bool",
+      "value": true
+    },
+    "AutomaticScalingEnabled": {
+      "type": "bool",
+      "value": true
+    },
+    "BreakJointsOnDeath": {
+      "type": "bool",
+      "value": true
+    },
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "DisplayDistanceType": {
+      "type": "Enum",
+      "value": {
+        "enumType": "HumanoidDisplayDistanceType",
+        "value": "Viewer"
+      }
+    },
+    "DisplayName": {
+      "type": "string",
+      "value": ""
+    },
+    "EvaluateStateMachine": {
+      "type": "bool",
+      "value": true
+    },
+    "HealthDisplayDistance": {
+      "type": "float",
+      "value": 100
+    },
+    "HealthDisplayType": {
+      "type": "Enum",
+      "value": {
+        "enumType": "HumanoidHealthDisplayType",
+        "value": "DisplayWhenDamaged"
+      }
+    },
+    "HipHeight": {
+      "type": "float",
+      "value": 0
+    },
+    "JumpHeight": {
+      "type": "float",
+      "value": 7.199999809265137
+    },
+    "JumpPower": {
+      "type": "float",
+      "value": 50
+    },
+    "MaxHealth": {
+      "type": "float",
+      "value": 100
+    },
+    "MaxSlopeAngle": {
+      "type": "float",
+      "value": 89
+    },
+    "NameDisplayDistance": {
+      "type": "float",
+      "value": 100
+    },
+    "NameOcclusion": {
+      "type": "Enum",
+      "value": {
+        "enumType": "NameOcclusion",
+        "value": "OccludeAll"
+      }
+    },
+    "RequiresNeck": {
+      "type": "bool",
+      "value": true
+    },
+    "RigType": {
+      "type": "Enum",
+      "value": {
+        "enumType": "HumanoidRigType",
+        "value": "R6"
+      }
+    },
+    "RootPart": {
+      "type": "Ref",
+      "value": "390593"
+    },
+    "SeatPart": {
+      "type": "nil"
+    },
+    "UseJumpPower": {
+      "type": "bool",
+      "value": true
+    },
+    "WalkSpeed": {
+      "type": "float",
+      "value": 16
+    },
+    "WalkToPart": {
+      "type": "nil"
+    }
+  },
+  "referenceId": "390584"
+}

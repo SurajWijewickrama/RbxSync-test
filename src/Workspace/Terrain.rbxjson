@@ -1,7 +1,7 @@
 {
   "className": "Terrain",
   "name": "Terrain",
-  "parentId": "126001",
+  "parentId": "13",
   "path": "Workspace/Terrain",
   "properties": {
     "Anchored": {
@@ -199,5 +199,5 @@
       "value": 10
     }
   },
-  "referenceId": "127338"
+  "referenceId": "11052"
 }

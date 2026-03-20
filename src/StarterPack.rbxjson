@@ -1,7 +1,7 @@
 {
   "className": "StarterPack",
   "name": "StarterPack",
-  "parentId": "126000",
+  "parentId": "125866",
   "path": "StarterPack",
   "properties": {
     "Capabilities": {
@@ -9,5 +9,5 @@
       "value": 0
     }
   },
-  "referenceId": "126937"
+  "referenceId": "7239"
 }

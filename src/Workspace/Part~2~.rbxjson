@@ -1,13 +1,7 @@
 {
-  "attributes": {
-    "_rbxsync_source": {
-      "type": "string",
-      "value": "Workspace/Part~2~"
-    }
-  },
   "className": "Part",
   "name": "Part",
-  "parentId": "126001",
+  "parentId": "13",
   "path": "Workspace/Part~2~",
   "properties": {
     "Anchored": {
@@ -188,5 +182,5 @@
       "value": 0
     }
   },
-  "referenceId": "385932"
+  "referenceId": "9472"
 }

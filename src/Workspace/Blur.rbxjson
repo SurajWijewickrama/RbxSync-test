@@ -1,7 +1,13 @@
 {
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "Workspace/Blur"
+    }
+  },
   "className": "BlurEffect",
   "name": "Blur",
-  "parentId": "126001",
+  "parentId": "13",
   "path": "Workspace/Blur",
   "properties": {
     "Capabilities": {
@@ -17,5 +23,5 @@
       "value": 24
     }
   },
-  "referenceId": "388553"
+  "referenceId": "9440"
 }

@@ -1,7 +1,7 @@
 {
   "className": "ServerScriptService",
   "name": "ServerScriptService",
-  "parentId": "126000",
+  "parentId": "125866",
   "path": "ServerScriptService",
   "properties": {
     "Capabilities": {
@@ -9,5 +9,5 @@
       "value": 0
     }
   },
-  "referenceId": "126993"
+  "referenceId": "10047"
 }

@@ -1,7 +1,13 @@
 {
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "Workspace/ColorCorrection"
+    }
+  },
   "className": "ColorCorrectionEffect",
   "name": "ColorCorrection",
-  "parentId": "126001",
+  "parentId": "13",
   "path": "Workspace/ColorCorrection",
   "properties": {
     "Brightness": {
@@ -33,5 +39,5 @@
       }
     }
   },
-  "referenceId": "388554"
+  "referenceId": "9446"
 }

@@ -1,7 +1,13 @@
 {
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "Workspace/Bloom"
+    }
+  },
   "className": "BloomEffect",
   "name": "Bloom",
-  "parentId": "126001",
+  "parentId": "13",
   "path": "Workspace/Bloom",
   "properties": {
     "Capabilities": {
@@ -25,5 +31,5 @@
       "value": 0.800000011920929
     }
   },
-  "referenceId": "388552"
+  "referenceId": "9438"
 }

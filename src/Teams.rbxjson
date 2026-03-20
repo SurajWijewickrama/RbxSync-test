@@ -1,7 +1,7 @@
 {
   "className": "Teams",
   "name": "Teams",
-  "parentId": "126000",
+  "parentId": "125866",
   "path": "Teams",
   "properties": {
     "Capabilities": {
@@ -9,5 +9,5 @@
       "value": 0
     }
   },
-  "referenceId": "127337"
+  "referenceId": "11051"
 }

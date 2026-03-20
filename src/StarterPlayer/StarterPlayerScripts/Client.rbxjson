@@ -7,7 +7,7 @@
   },
   "className": "LocalScript",
   "name": "Client",
-  "parentId": "127334",
+  "parentId": "11047",
   "path": "StarterPlayer/StarterPlayerScripts/Client",
   "properties": {
     "Capabilities": {
@@ -31,5 +31,5 @@
       }
     }
   },
-  "referenceId": "385936"
+  "referenceId": "9454"
 }

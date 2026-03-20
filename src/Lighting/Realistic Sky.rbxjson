@@ -1,7 +1,13 @@
 {
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "Lighting/Realistic Sky"
+    }
+  },
   "className": "Sky",
   "name": "Realistic Sky",
-  "parentId": "127327",
+  "parentId": "9453",
   "path": "Lighting/Realistic Sky",
   "properties": {
     "Capabilities": {
@@ -97,5 +103,5 @@
       "value": "rbxasset://sky/sun.jpg"
     }
   },
-  "referenceId": "388555"
+  "referenceId": "10051"
 }

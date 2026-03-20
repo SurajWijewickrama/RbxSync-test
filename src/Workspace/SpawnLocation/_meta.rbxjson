@@ -7,7 +7,7 @@
   },
   "className": "SpawnLocation",
   "name": "SpawnLocation",
-  "parentId": "126001",
+  "parentId": "13",
   "path": "Workspace/SpawnLocation",
   "properties": {
     "AllowTeamChangeOnTouch": {
@@ -208,5 +208,5 @@
       "value": 0
     }
   },
-  "referenceId": "127332"
+  "referenceId": "11045"
 }

@@ -7,7 +7,7 @@
   },
   "className": "Part",
   "name": "Part",
-  "parentId": "126001",
+  "parentId": "13",
   "path": "Workspace/Part",
   "properties": {
     "Anchored": {
@@ -188,5 +188,5 @@
       "value": 0
     }
   },
-  "referenceId": "385931"
+  "referenceId": "9471"
 }

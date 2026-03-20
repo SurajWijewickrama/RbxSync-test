@@ -2,12 +2,12 @@
   "attributes": {
     "_rbxsync_source": {
       "type": "string",
-      "value": "Workspace/bar"
+      "value": "Workspace/Part"
     }
   },
   "className": "Part",
   "name": "bar",
-  "parentId": "126001",
+  "parentId": "13",
   "path": "Workspace/bar",
   "properties": {
     "Anchored": {
@@ -42,7 +42,7 @@
         "position": [
           -19.5,
           24.5,
-          -19
+          -8
         ],
         "rotation": [
           1,
@@ -188,5 +188,5 @@
       "value": 0
     }
   },
-  "referenceId": "385933"
+  "referenceId": "9474"
 }

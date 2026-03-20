@@ -1,0 +1,61 @@
+{
+  "className": "BodyColors",
+  "name": "Body Colors",
+  "parentId": "390585",
+  "path": "Workspace/Noob/Body Colors",
+  "properties": {
+    "Capabilities": {
+      "type": "SecurityCapabilities",
+      "value": 0
+    },
+    "HeadColor3": {
+      "type": "Color3",
+      "value": {
+        "b": 0.1882353127002716,
+        "g": 0.803921639919281,
+        "r": 0.960784375667572
+      }
+    },
+    "LeftArmColor3": {
+      "type": "Color3",
+      "value": {
+        "b": 0.1882353127002716,
+        "g": 0.803921639919281,
+        "r": 0.960784375667572
+      }
+    },
+    "LeftLegColor3": {
+      "type": "Color3",
+      "value": {
+        "b": 0.27843138575553894,
+        "g": 0.7411764860153198,
+        "r": 0.6431372761726379
+      }
+    },
+    "RightArmColor3": {
+      "type": "Color3",
+      "value": {
+        "b": 0.1882353127002716,
+        "g": 0.803921639919281,
+        "r": 0.960784375667572
+      }
+    },
+    "RightLegColor3": {
+      "type": "Color3",
+      "value": {
+        "b": 0.27843138575553894,
+        "g": 0.7411764860153198,
+        "r": 0.6431372761726379
+      }
+    },
+    "TorsoColor3": {
+      "type": "Color3",
+      "value": {
+        "b": 0.6745098233222961,
+        "g": 0.4117647409439087,
+        "r": 0.05098039656877518
+      }
+    }
+  },
+  "referenceId": "390581"
+}

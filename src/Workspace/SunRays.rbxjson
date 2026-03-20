@@ -1,7 +1,13 @@
 {
+  "attributes": {
+    "_rbxsync_source": {
+      "type": "string",
+      "value": "Workspace/SunRays"
+    }
+  },
   "className": "SunRaysEffect",
   "name": "SunRays",
-  "parentId": "126001",
+  "parentId": "13",
   "path": "Workspace/SunRays",
   "properties": {
     "Capabilities": {
@@ -21,5 +27,5 @@
       "value": 1
     }
   },
-  "referenceId": "388556"
+  "referenceId": "11049"
 }

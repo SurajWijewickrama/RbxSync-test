@@ -1,7 +1,7 @@
 {
   "className": "LocalizationService",
   "name": "LocalizationService",
-  "parentId": "126000",
+  "parentId": "125866",
   "path": "LocalizationService",
   "properties": {
     "Capabilities": {
@@ -9,5 +9,5 @@
       "value": 0
     }
   },
-  "referenceId": "126940"
+  "referenceId": "7242"
 }
